@@ -1,5 +1,3 @@
-# recipe-generator-prompt-engineering
-Recipe Generator project demonstrating Zero-shot, Few-shot, and Chain-of-thought prompting techniques
 # Recipe Generator – Prompt Engineering
 
 This project demonstrates **Zero-shot, Few-shot, and Chain-of-thought prompting** using a Recipe Generator.
